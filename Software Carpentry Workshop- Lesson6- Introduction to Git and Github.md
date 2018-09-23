@@ -542,3 +542,7 @@ In practice, it is good to be sure that you have an updated version of the repos
 - upload the changes to GitHub with git push origin master
 
 It is better to make many commits with smaller changes rather than of one commit with massive changes: small commits are easier to read and review.
+
+
+-------------------------------------------------------------------------Testing-------------------------------------------------------------------------
+Adding a few test lines on this file.
